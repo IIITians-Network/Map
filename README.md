@@ -1,2 +1,4 @@
-# jee-college-locator
-Simple college locator based on Google Maps API and database
+# IIIT locator
+Easy tool to get information about all IIITs and locate on Google Maps in a single search
+
+![Screenshot](./screenshots/basic-working.png)
