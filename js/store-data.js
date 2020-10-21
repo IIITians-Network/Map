@@ -39,7 +39,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "902113301"
     },
-    "website" : "https://www.iiita.ac.in/",
+    "website" : "https://iiita.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -62,7 +62,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "813210"
     },
-    "website" : "https://www.iiitbh.ac.in/",
+    "website" : "https://iiitbh.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -85,7 +85,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "462003"
     },
-    "website" : "https://www.iiitbhopal.ac.in/",
+    "website" : "https://iiitbhopal.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -108,7 +108,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "580029"
     },
-    "website" : "https://www.iiitdwd.ac.in/",
+    "website" : "https://iiitdwd.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -131,7 +131,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "781015"
     },
-    "website" : "https://www.iiitg.ac.in/",
+    "website" : "https://iiitg.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -154,7 +154,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "474015"
     },
-    "website" : "https://www.iiitm.ac.in/",
+    "website" : "https://iiitm.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -177,7 +177,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "482005"
     },
-    "website" : "https://www.iiitdmj.ac.in/",
+    "website" : "https://iiitdmj.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -200,7 +200,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "741235"
     },
-    "website" : "https://www.iiitKalyani.ac.in/",
+    "website" : "https://iiitKalyani.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -223,7 +223,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "600127"
     },
-    "website" : "https://www.iiitdm.ac.in/",
+    "website" : "https://iiitdm.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -246,7 +246,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "302017"
     },
-    "website" : "https://www.iiitkota.ac.in/",
+    "website" : "https://iiitkota.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -269,7 +269,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "686635"
     },
-    "website" : "https://www.iiitKottayam.ac.in/",
+    "website" : "https://iiitKottayam.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -292,7 +292,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "518007"
     },
-    "website" : "http://www.iiitdmkl.ac.in/",
+    "website" : "http://iiitdmkl.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -315,7 +315,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "226002"
     },
-    "website" : "https://www.iiitl.ac.in/",
+    "website" : "https://iiitl.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -338,7 +338,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "795002"
     },
-    "website" : "https://www.iiitManipur.ac.in/",
+    "website" : "https://iiitManipur.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -361,7 +361,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "440006"
     },
-    "website" : "https://www.iiitn.ac.in/",
+    "website" : "https://iiitn.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -384,7 +384,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "411048"
     },
-    "website" : "https://www.iiitp.ac.in/",
+    "website" : "https://iiitp.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -407,7 +407,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "502285"
     },
-    "website" : "https://www.iiitr.ac.in/",
+    "website" : "https://iiitr.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -430,7 +430,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "834010"
     },
-    "website" : "https://www.iiitRanchi.ac.in/",
+    "website" : "https://iiitRanchi.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -453,7 +453,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "0"
     },
-    "website" : "https://www.iiitSonipat.ac.in/",
+    "website" : "https://iiitSonipat.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -476,7 +476,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "517646"
     },
-    "website" : "https://www.iiits.ac.in/",
+    "website" : "https://iiits.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -499,7 +499,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "395007"
     },
-    "website" : "https://www.iiitsurat.ac.in/",
+    "website" : "https://iiitsurat.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -522,7 +522,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "620015"
     },
-    "website" : "https://www.iiitt.ac.in/",
+    "website" : "https://iiitt.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -545,11 +545,11 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "177209"
     },
-    "website" : "https://www.iiitu.ac.in/",
+    "website" : "https://iiitu.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
-    "addressLines": ["IIIT Allahabad", "Saloh, Una, Himachal Pradesh 177209"]
+    "addressLines": ["IIIT Una", "Saloh, Una, Himachal Pradesh 177209"]
 },
 {
     "name": "IIIT Vadodara (Gandhinagar Campus)",
