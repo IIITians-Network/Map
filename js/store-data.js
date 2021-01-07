@@ -430,7 +430,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "834010"
     },
-    "website" : "https://iiitRanchi.ac.in/",
+    "website" : "http://iiitRanchi.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
@@ -453,7 +453,7 @@ let stores = [
         "countryCode": "IN",
         "postalCode": "0"
     },
-    "website" : "https://iiitSonipat.ac.in/",
+    "website" : "http://www.iiitsonepat.ac.in/",
     "ownershipTypeCode": "GOI",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
